@@ -1,6 +1,6 @@
 # Membership & Subscription Manager
 
-A Salesforce-based system to **manage members and subscriptions** efficiently with **manual data entry, automation, reports, dashboards, and security controls**.
+A Salesforce-based system to **manage members and subscriptions** efficiently with **automation, reports, dashboards, and security controls**.
 
 ## Features
 - Track **active members** and their subscription plans
@@ -8,7 +8,6 @@ A Salesforce-based system to **manage members and subscriptions** efficiently wi
 - **Flows & automation** for managing memberships and subscriptions
 - **Dashboards** to visualize key metrics
 - **Role-based access** & field-level security to protect sensitive data
-- All data is **entered manually** in the system
 
 ## Tech Stack
 - Salesforce Platform
@@ -19,4 +18,4 @@ A Salesforce-based system to **manage members and subscriptions** efficiently wi
 ## Phase Completion
 All **9 phases completed**: Membership, Subscriptions, Invoices, Flows/Automation, Reports, Dashboards, Security
 
-✅ **Manage members manually, automate processes, and visualize key metrics—all in one Salesforce project!**
+✅ **A complete system to track members, manage subscriptions, and visualize key metrics in Salesforce.**
